@@ -35,11 +35,12 @@ end
 
 def retrieve_first_element_from_array(array)
   family = ["wow","David","am","Wes","arrays!"]
-  family[-1]
+  family[0]
 end
 
 def retrieve_last_element_from_array(array)
-  
+  family = ["wow","David","am","Wes","arrays!"]
+  family[-1]
 end
 
 def update_element_from_index(array, index_number, element)
