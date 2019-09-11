@@ -20,7 +20,7 @@ end
 
 def remove_element_from_end_of_array(array)
   family = ["David","John","Wes","Michael"]
-  Michael = family.pop
+  family.pop
   p family
 end
 
