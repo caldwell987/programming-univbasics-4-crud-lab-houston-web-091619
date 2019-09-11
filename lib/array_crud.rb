@@ -44,5 +44,6 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-
+family = ["wow","David","am","Wes","arrays!"]
+  family[-1]
 end
