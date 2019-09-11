@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   family = ["David","John","Wes","Michael"]
-  family.push ("Sandy")
+  family.push ("arrays!")
   p family
 end
 
