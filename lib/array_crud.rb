@@ -30,7 +30,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   family = ["wow","David","am","Wes","Michael"]
-  family [2]
+  family[2]
 end
 
 def retrieve_first_element_from_array(array)
